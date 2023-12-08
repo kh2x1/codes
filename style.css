@@ -11,10 +11,7 @@ body{
     direction: rtl;
 }
 
-.navCon{
-    display: flex;
-    justify-content: space-around;
-}
+
 
 nav{
     width: 100%;
